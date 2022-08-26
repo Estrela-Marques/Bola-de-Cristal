@@ -1,15 +1,16 @@
-# HMTL 
-- HiperText Markup Language
 
-- Hiper Texto?
-- Marcação
- - tags
- - atributos
-- Linguagem
- - maneira de escrever
+<h1 align="center">Jogo interativo - "Vou revelar seu destino!" </h1>
 
- O que é hipertext?
- O que é Markup?
- O que é tag?
- O que é linguagem HTML?
-  
+
+
+ ![Screenshot_20220826-153523-708](https://user-images.githubusercontent.com/106935816/186973403-8eacac22-1f8c-414a-9bf5-fed0b7767e04.png)
+ 
+ 
+ <hr>
+
+## Tecnologias usadas
+- HTML
+- JavaScript
+- CSS
+ 
+ 
